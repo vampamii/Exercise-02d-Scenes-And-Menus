@@ -1,8 +1,8 @@
-# Exercise-02d-Scenes-And-Menus
+# Project02-SpaceShooter
 
 Exercise for MSCH-C220
 
-A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
+A simple 2D Space Shooter. Includes a ship, an enemy and asteroids. Created in Unity.
 
 ## Implementation
 
@@ -13,10 +13,10 @@ Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extens
 The explosion spritesheet was released into the public domain by [StumpyStrust](https://opengameart.org/content/explosion-sheet)
 
 ## References
-None
+Supplementary videos by Nathan Mishler.
 
 ## Future Development
 None
 
 ## Created by
-Nathan Mishler
+Amanda Sarmientos
